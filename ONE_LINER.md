@@ -1,3 +1,4 @@
+# One Liners for Cloud Computing - Quick Revision
 1. OS assisted virtualization (paravirtualization): In this technique, the guest OS is modified to be virtualization-aware (allow it to communicate through hypercalls with the hypervisor, so as to handle privileged and sensitive instructions).
 
 2. what is most commonly used for managing the resources for every virtual system - Hyperviser
