@@ -75,8 +75,6 @@
 
 38. A _____________cloud combines multiple clouds where those clouds retain their unique identities, but are bound together as a unit. - **Hybrid**
 
-![Iaas-PaaS-SaaS](https://s7280.pcdn.co/wp-content/uploads/2017/09/iaas-paas-saas-comparison.jpg.optimal.jpg)
-
 39. A service that concentrates on hardware follows the _________ as a Service model. - **IaaS**
 
 40. The Google App Engine follows _____ -  **PaaS**
