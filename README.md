@@ -1,5 +1,5 @@
 # One Liners for Cloud Computing - Quick Revision
-1. OS assisted virtualization (**paravirtualization**): In this technique, the guest OS is modified to be virtualization-aware (allow it to communicate through hypercalls with the hypervisor, so as to handle privileged and sensitive instructions).
+1. In _____ technique, the guest OS is modified to be virtualization-aware (allow it to communicate through hypercalls with the hypervisor, so as to handle privileged and sensitive instructions). - **OS assisted virtualization (paravirtualization)**
 
 2. What is most commonly used for managing the resources for every virtual system - **Hyperviser**
 
@@ -88,5 +88,4 @@
 44. _______ model attempts to categorize a cloud network based on four dimensional factors. - **Cloud Cube**
 
 45. _____ was formerly known as Windows Azure. - **Microsoft Azure**
-
-46. 
+ 
