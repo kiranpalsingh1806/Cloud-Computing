@@ -88,4 +88,36 @@
 44. _______ model attempts to categorize a cloud network based on four dimensional factors. - **Cloud Cube**
 
 45. _____ was formerly known as Windows Azure. - **Microsoft Azure**
+
+46. _____ is a form of cloud computing that provides virtualized computing resources over the internet. **Infrastructure as a service (IaaS)**
+
+47.   The 'GI Cloud',  also known as ____ is cloud computing platform provided by Government of India. - **MeghRaj**
+
+48. _____ is a service-providing paradigm in which a service provider makes computer resources and infrastructure management available to customers as needed, charging them on a per-use basis rather than a set fee. **Utility computing**
+
+49. _________ as a Service is a cloud computing infrastructure that creates a development environment upon which applications may be build. - **Platform**
+
+50. ____ is the fundamental unit of virtualized client in an IaaS deployment - **Workload**
+
+51. The full form of MOM is ____ -  **Message-Oriented Middleware**
+
+52. Migration starts with an _____ of the issues relating to migration, at the application, code, design, and architecture levels. - **assessment**
+
+53. A ___ is generated to separate the components that should reside in the captive data center from the ones that will go into the cloud. **mapping construct**
+
+54. Once the augmentation is done in migration, the application needs to be _____ - **validated and tested**.
+
+55. ________ as a utility is a dream that dates from the beginning of the computing industry itself. - **Computing**
+
+56.  Whenever any intranet becomes large enough in size that a diagram is not able to differentiate the individual physical system, so at that stage intranet also becomes known as a _____. - **Cloud**
+
+57. ___ is the IaaS service provider. - **EC2**
+
+58. The correct relationship of cloud services to customers. - **One-Many**
+
+59. CSCC stands for - **Cloud Standards Custom Council**
+
+59. _____ is considered as one of the biggest potential downsides of using Cloud Computing. - **Downtime**
+
+60. 
  
