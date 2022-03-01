@@ -117,8 +117,6 @@
 
 59. CSCC stands for - **Cloud Standards Custom Council**
 
-59. _____ is considered as one of the biggest potential downsides of using Cloud Computing. - **Downtime**
-
 60. The technique used in OS-assisted virtualization is ___. - **Hypercells**
 
 61. Full Virtualization with Binary Translation and Hardware Assisted Virtualization is ______. - **Unmodified Guest OS**
@@ -236,3 +234,5 @@ its audience. - **SLAS**
 in an on- premises deployment. - **Vendor Lock-in**
 
 115. Cloud computing is a kind of abstraction which is based on the notion of combining physical resources and represents them as _______resources to users. - **Virtual**
+
+116. _____ is considered as one of the biggest potential downsides of using Cloud Computing. - **Downtime**
