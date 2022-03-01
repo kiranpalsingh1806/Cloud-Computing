@@ -103,7 +103,7 @@
 
 52. Migration starts with an _____ of the issues relating to migration, at the application, code, design, and architecture levels. - **assessment**
 
-53. A ___ is generated to separate the components that should reside in the captive data center from the ones that will go into the cloud. **mapping construct**
+53. A ___ is generated to separate the components that should reside in the captive data center from the ones that will go into the cloud. -  **mapping construct**
 
 54. Once the augmentation is done in migration, the application needs to be _____ - **validated and tested**.
 
@@ -119,5 +119,120 @@
 
 59. _____ is considered as one of the biggest potential downsides of using Cloud Computing. - **Downtime**
 
-60. 
- 
+60. The technique used in OS-assisted virtualization is ___. - **Hypercells**
+
+61. Full Virtualization with Binary Translation and Hardware Assisted Virtualization is ______. - **Unmodified Guest OS**
+
+62. In ____ system, multiple processors are closer with each other during communication between them. - **Parallel**
+
+63. Scalability is the characteristic of _______. - **Distributed System**
+
+64. Different four rings based on x86 architecture are known as ______ - **Either protective or privileged Rings**
+
+65. In _____ virtualization type 'Binary Translation' is used. - **Full**
+
+66. ____ do not improves the overall network’s productivity and efficiency. - **Both Application and Data Virtualization**
+
+67. There are three different networks, which are interconnected with a single router. Then how many broadcasts domain should be there. - **Three**
+
+68. VSAN provides a virtualized ‘pool’ of storage to _____. - **Both Multiple Virtual Machines and Applications**
+
+69. Static VLANs are configured manually by _________ to a VLAN. - **assigning ports**
+
+70. Dynamic VLANs use a database that stores a VLAN / MAC mapping to determine the VLAN to which a ______ is connected. - **particular host**
+
+71. Full form of SOA is - **Service oriented architecture**
+
+72. In Software as a Service, business applications are hosted by the ____ and delivered as a service. - **Provider**
+
+73. Based on information in a client or front-end application request, ____ can customize the response from the back-end application or service. - **Middleware**
+
+74. In Isolation step of migration into cloud, we must consider _____. - **Both applications dependency and runtime environment**
+
+75. ________ cloud computing stacks are not managed by Vendor in PaaS - **Applications**
+
+76. _____ cloud computing stacks are not managed by Vendors in IaaS - **Database**
+
+77. Virtualization allows sharing the resources of hardware across single/multiple environments. - **Multiple**
+
+78. A virtual machine running on a server of a particular make can/cannot be relocated to b the server of another make. - **can**
+
+79. Amazon Web Services (AWS) is an example of - **IaaS**
+
+80. _______ is an example of Type 1 hyperviser. - **lynxsecure**
+
+81. ______ is an example of Type 2 Virtual Machine - **Xen**
+
+82. In ______ scheme, the VM is installed as a Type 1 Hypervisor directly onto the hardware. - **Full Virtualization**
+
+83. Bare metal hypervisor sits on top of - **Physical Hardware**
+
+84. If virtualization occurs at application level, OS level and hardware
+level, then such service in cloud is - **SaaS**
+
+85. ________ is where a VM can be moved from one physical machine to another even as it continues to execute. - **Live Migration**
+
+86. Google uses hardware virtualization. True/False - **False**
+
+87. In HDFS the files cannot be ____ - **Executed**
+
+88. The duties of _________ is to perform read-write operation as per request for the clients. - **Data Nodes**
+
+89. NameNode and DataNode do communicate using _______. - **HeartBeats**
+
+90. Amazon EC2 provides virtual computing environments, known as _________ - **Instances**
+
+91. _______ is most important feature of cloud storage. - **Logon Authentication**
+
+92. _______ service provider provides the highest level of service - **SaaS**
+
+93. For the _______ model, the security boundary may be defined for the vendor to include the software framework and middleware layer. - **PaaS**
+
+94. _______ is an application for collecting messages sent in RSS and
+Atom format from information providers. - **Google Reader**
+
+95. ________ has the highest degree of integration in cloud computing - **SaaS**
+
+96. Communication between services is done widely using _____ protocol - **RestFul**
+
+97. Applications such as a Web server or database server that can run on a virtual machine image are referred to as _________ - **Virtual Appliances**
+
+98. ______ is a CPU emulator and virtual machine monitor - **Qemu**
+
+99. The full form of HDFS - **Hadoop Distributed File System**
+
+100. The namenode knows that the data node is active using a mechanism known as ______ - **Heartbeats**
+
+101. The physical representation of data is _____ in Hadoop. -**HDFS Block**
+
+102. _______ technology is used for syndicated content. - **RSS**
+
+103. Virtualization assigns a logical name for a physical resource and then
+provides a pointer to that physical resource when ________. **a request is made**
+
+104. In para-virtualization, VMs run on hypervisor that interacts with the
+hardware. True/False - **False**
+
+105. A typical rss document or feed contains text and metadata that can be used to indicate _______. - **publication dates**
+
+106. A virtual network can create virtual network interfaces. True/False - **True**
+
+107. Cloud model relies on ________ - **Communication API**
+
+108. HTTP is a _____ protocol. - **Unidirectional**
+
+109. Websocket protocol uses __________ communication model. - **Publish-Subscribe**
+
+110. Amazon AWS consists of IaaS, PaaS and Saas. True/False - **True**
+
+111. Cloud ______ are standardized in order to appeal to the majority of
+its audience. - **SLAS**
+
+112. The full of SLA is _________. - **Service-Level Agreement**
+
+113. The reputation for cloud computing services for the quality of those services is shared by _____. - **Tenants**
+
+114. ______ is a function of the particular enterprise and application
+in an on- premises deployment. - **Vendor Lock-in**
+
+115. Cloud computing is a kind of abstraction which is based on the notion of combining physical resources and represents them as _______resources to users. - **Virtual**
