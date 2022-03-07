@@ -237,7 +237,7 @@ in an on- premises deployment. - **Vendor Lock-in**
 
 116. _____ is considered as one of the biggest potential downsides of using Cloud Computing. - **Downtime**
 
-### After Mid Term Examination
+## After Mid Term Examination
 
 117. The full form of TCO is ______. - **Total Cost of Ownership**
 
@@ -247,4 +247,4 @@ in an on- premises deployment. - **Vendor Lock-in**
 
 120. The full form of OPEX is _____. - **Operational Expenditure**
 
-121. The _______ are costlier than Cloud Based Solutions. - **Pay as Go Business**
+121. The _______ are costlier than Cloud Based Solutions. - **On Site Businesses**
