@@ -236,3 +236,15 @@ in an on- premises deployment. - **Vendor Lock-in**
 115. Cloud computing is a kind of abstraction which is based on the notion of combining physical resources and represents them as _______resources to users. - **Virtual**
 
 116. _____ is considered as one of the biggest potential downsides of using Cloud Computing. - **Downtime**
+
+### After Mid Term Examination
+
+117. The full form of TCO is ______. - **Total Cost of Ownership**
+
+118. The TCO is made up of ______ and ______. - **Acquisition Cost** and **Operational Cost**
+
+119. The full form of CAPEX is ____. - **Capital Expenditure**
+
+120. The full form of OPEX is _____. - **Operational Expenditure**
+
+121. The _______ are costlier than Cloud Based Solutions. - **Pay as Go Business**
