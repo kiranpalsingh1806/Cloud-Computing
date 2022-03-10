@@ -248,3 +248,19 @@ in an on- premises deployment. - **Vendor Lock-in**
 120. The full form of OPEX is _____. - **Operational Expenditure**
 
 121. The _______ are costlier than Cloud Based Solutions. - **On Site Businesses**
+
+122. FT stands for_______ very prominent component of VMware vSphere. It provides continuous availability for VMs when an ESXi host fails. - **Fault Tolerance**
+
+123. _______ blurs the differences between a small deployment and a large one because scale becomes tied only to demand. - **Pooling**
+
+124. Cutting latency in half requires ______ times the number of nodes in a system. - **Four**
+
+125. Weinman argues that a large cloud’s size has the ability to repel ______ and DDoS attacks better than smaller systems do. - **Botnets**
+
+126. A __________ site is one that is environmentally friendly: locations that are on a network backbone. - **Greenfield**
+
+127. The peak of the sum is never ________ than the sum of the peaks. - **greater**
+
+128. ________ captive requires that the cloud accommodate multiple compliance regimes. - **Policy Based**
+
+129. Security methods such as private encryption, VLANs and firewalls comes under __________ subject area. - **Data Privacy**
